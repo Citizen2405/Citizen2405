@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm K Wilbur Donovan</h1>
+<h1 align="center">Hello 👋, I'm W I L B U R</h1>
 <h3 align="center">A passionate frontend developer and UI designer from India</h3>
 
 __________
@@ -10,8 +10,6 @@ __________
 - 👯 I’m looking to collaborate with other **Nerds**👩‍💻
 
 - 💬 Ask me about **whatever, whatever**
-
-- 📫 How to reach me **kwilbur2001@gmail.com**
 
 __________
 
